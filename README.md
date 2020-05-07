@@ -1,4 +1,4 @@
-# ICLR Conference Portal
+# Conference Portal
 
 ### Installation
 ```
@@ -10,7 +10,7 @@ Replace `pip` with `pip3` according to your system.
 ## Files
 
 * Static files js/css/image `static/`
-* Site data files yaml/json `sitedata/`
+* Site and configuration data files yaml/json `sitedata/`
 * HTML Template files `templates/pages`
 
 
